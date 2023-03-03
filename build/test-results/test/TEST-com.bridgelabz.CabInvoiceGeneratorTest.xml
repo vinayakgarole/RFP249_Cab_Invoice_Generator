@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.CabInvoiceGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-03T11:03:51" hostname="DESKTOP-6PP3VIO" time="0.032">
+  <properties/>
+  <testcase name="givenDistanceAndTime_ShouldReturn_TotalFare()" classname="com.bridgelabz.CabInvoiceGeneratorTest" time="0.032"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
